@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=0.9">
+        <title>Fraud Prediction</title>
+    </head>
+    
+<!-- Adding styles like colour, height, width, border to our html page -->
+<style>
+
+
+input[type=text], select {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-weight: bolder;
+}
+
+input[type=submit] {
+  width: 80%;
+  background-color: #e15d44;
+  color:black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size:100;
+  font-weight: bolder;
+}
+
+
+input[type=submit]:hover {
+  background-color: #9B2335;
+}
+form{
+    border-radius: 10px;
+    padding-top: 5%;
+    font-weight: bolder;
+}
+div {
+ 
+  border-radius: 5px;
+  margin-left: 35%;
+  width: 30%;
+  
+}
+h1{
+    color: #DD4124;
+    font-size: 40px;
+    font-weight: bolder;
+}
+h3{
+  color: white;
+  font-size: 35px
+}
+
+body {
+            
+            background-image: url("https://miro.medium.com/max/6200/1*3f4KQvOVZQRCsFLxvHD4rA.jpeg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            text-align: center;
+            padding: 0px;
+        }
+       
+</style>
+
+<body>
+
+<h1>Fraud Detection</h1>
+
+<div>
+ <!-- Html form which will get all the values from user -->
+ <form action="{{ url_for('predict')}}" method="post" style="background-color:#E6E6FA">
+
+<label for="V4">V4 Value</label><br>
+<input type="text" id="V4" name="V4" placeholder="Please enter the V4 Value" required="required"><br>
+<label for="V10">V10 Value</label><br>
+<input type="text" id="V10" name="V10" placeholder="Please enter the V10 Value" required="required"><br>
+<label for="V11">V11 Value</label><br>
+<input type="text" id="V11" name="V11" placeholder="Please enter the V11 Value" required="required"><br>   
+<label for="V12">V12 Value</label><br>
+<input type="text" id="V12" name="V12" placeholder="Please enter the V12 Value" required="required"><br>
+<label for="V14">V14 Value</label><br>
+<input type="text" id="V14" name="V14" placeholder="Please enter the V14 Value" required="required"><br>
+<label for="V17">V17 Value</label><br>
+<input type="text" id="V17" name="V17" placeholder="Please enter the V17 Value" required="required"><br>
+ 
+     
+<!-- submit button -->           
+<input type="submit" value="Predict Transactions">
+</form>
+</div>
+    
+<!-- the predicted text -->
+<h3 style="color:red">{{ prediction_text }}</h3>
+
+</body>
+</html>
