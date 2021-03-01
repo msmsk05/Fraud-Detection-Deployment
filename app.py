@@ -16,9 +16,9 @@ def predict():
     final_features = [np.array(int_features)]
     prediction = model.predict(final_features)
 
-    output=["Fraud" if prediction[0]==1 else "Not Fraud"][0]
+    output=["has real interest in the product" if prediction[0]==1 else "is just looking."][0]
 
-    return render_template('index.html', prediction_text='The transaction is {}'.format(output))
+    return render_template('index.html', prediction_text='This customer {}'.format(output))
 
 @app.route('/results',methods=['POST'])
 def results():
@@ -26,7 +26,7 @@ def results():
     data = request.get_json(force=True)
     prediction = model.predict([np.array(list(data.values()))])
 
-    output=["Fraud" if prediction[0]==1 else "Not Fraud"]
+    output=["has real interest in the product" if prediction[0]==1 else "is just looking."][0]
     return jsonify(output)
 
 if __name__ == "__main__":

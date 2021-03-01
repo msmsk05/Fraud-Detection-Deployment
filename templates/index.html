@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=0.9">
-        <title>Fraud Prediction</title>
+        <title>Customer Behavior Prediction</title>
     </head>
     
 <!-- Adding styles like colour, height, width, border to our html page -->
@@ -61,7 +61,7 @@ h3{
 
 body {
             
-            background-image: url("https://miro.medium.com/max/6200/1*3f4KQvOVZQRCsFLxvHD4rA.jpeg");
+            background-image: url("https://i.pinimg.com/originals/66/b8/fa/66b8fa71907ff01ba9588827394f4169.jpg");
             background-repeat: no-repeat;
             background-size: cover;
             text-align: center;
@@ -72,34 +72,27 @@ body {
 
 <body>
 
-<h1>Fraud Detection</h1>
+<h1>Customer Behavior Prediction</h1>
 
 <div>
  <!-- Html form which will get all the values from user -->
  <form action="{{ url_for('predict')}}" method="post" style="background-color:#E6E6FA">
 
-<label for="V4">V4 Value</label><br>
-<input type="text" id="V4" name="V4" placeholder="Please enter the V4 Value" required="required"><br>
-<label for="V10">V10 Value</label><br>
-<input type="text" id="V10" name="V10" placeholder="Please enter the V10 Value" required="required"><br> 
-<label for="V11">V11 Value</label><br>
-<input type="text" id="V11" name="V11" placeholder="Please enter the V11 Value" required="required"><br> 
-<label for="V12">V12 Value</label><br>
-<input type="text" id="V12" name="V12" placeholder="Please enter the V12 Value" required="required"><br>
-<label for="V14">V14 Value</label><br>
-<input type="text" id="V14" name="V14" placeholder="Please enter the V14 Value" required="required"><br>   
-<label for="V17">V17 Value</label><br>
-<input type="text" id="V17" name="V17" placeholder="Please enter the V17 Value" required="required"><br>       
-  
-
+<label for="Sessions">Number of Sessions</label><br>
+<input type="text" id="Sessions" name="Sessions" placeholder="Please enter the number of sessions" required="required"><br>
+<label for="Avg. Session Duration">Avg. Session Duration</label><br>
+<input type="text" id="Avg. Session Duration" name="Avg. Session Duration" placeholder="Please enter the avg.session duration" required="required"><br> 
+<label for="Bounce Rate">Bounce Rate</label><br>
+<input type="text" id="Bounce Rate" name="Bounce Rate" placeholder="Please enter the Bounce Rate" required="required"><br> 
+     
      
 <!-- submit button -->           
-<input type="submit" value="Predict Transactions">
+<input type="submit" value="Predict Customer Behavior">
 </form>
 </div>
     
 <!-- the predicted text -->
-<h3 style="color:red">{{ prediction_text }}</h3>
+<h3 style="color:black">{{ prediction_text }}</h3>
 
 </body>
 </html>
