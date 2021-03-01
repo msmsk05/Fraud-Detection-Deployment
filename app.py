@@ -27,11 +27,8 @@ def results():
     data = request.get_json(force=True)
     prediction = model.predict([np.array(list(data.values()))])
 
-<<<<<<< HEAD
     output=["has real interest in the product" if prediction[0]==1 else "is just looking."][0]
-=======
-    output=["Fraud" if prediction[0]==1 else "Not Fraud"][0]
->>>>>>> 379c151b8f2b6da2e21d9f78279991fb86f8f4b4
+
     return jsonify(output)
 
 if __name__ == "__main__":
