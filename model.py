@@ -3,7 +3,7 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "religious-honor",
+   "id": "affecting-correlation",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -20,7 +20,7 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "veterinary-saudi",
+   "id": "handy-research",
    "metadata": {},
    "outputs": [
     {
@@ -130,7 +130,7 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "ranking-glossary",
+   "id": "greek-amber",
    "metadata": {},
    "outputs": [
     {
@@ -161,7 +161,7 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "competent-catering",
+   "id": "bridal-lewis",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -171,7 +171,7 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "after-collect",
+   "id": "engaging-tissue",
    "metadata": {},
    "outputs": [
     {
@@ -280,7 +280,7 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "instructional-truth",
+   "id": "seasonal-communist",
    "metadata": {},
    "outputs": [
     {
@@ -390,7 +390,7 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "advised-essex",
+   "id": "falling-charter",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -400,7 +400,7 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "ancient-engineering",
+   "id": "natural-dragon",
    "metadata": {},
    "outputs": [
     {
@@ -431,7 +431,7 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "professional-tragedy",
+   "id": "legitimate-qatar",
    "metadata": {},
    "outputs": [
     {
@@ -541,7 +541,7 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "neither-impression",
+   "id": "equal-condition",
    "metadata": {},
    "outputs": [
     {
@@ -562,7 +562,7 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "accredited-nightlife",
+   "id": "remarkable-huntington",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -572,7 +572,7 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "aware-input",
+   "id": "optical-steering",
    "metadata": {},
    "outputs": [
     {
@@ -687,7 +687,7 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "identified-groove",
+   "id": "coupled-clock",
    "metadata": {},
    "outputs": [
     {
@@ -758,7 +758,7 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "burning-serbia",
+   "id": "difficult-determination",
    "metadata": {},
    "outputs": [
     {
@@ -782,7 +782,7 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "published-figure",
+   "id": "occupational-infection",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -792,7 +792,7 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "completed-spell",
+   "id": "mighty-jurisdiction",
    "metadata": {},
    "outputs": [
     {
@@ -934,7 +934,7 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "impressed-latitude",
+   "id": "endangered-verse",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -944,7 +944,7 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "working-exemption",
+   "id": "indian-substitute",
    "metadata": {},
    "outputs": [
     {
@@ -1086,7 +1086,7 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "mexican-tattoo",
+   "id": "aggregate-postage",
    "metadata": {},
    "outputs": [
     {
@@ -1128,7 +1128,7 @@
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "opposite-material",
+   "id": "infrared-serve",
    "metadata": {},
    "outputs": [
     {
@@ -1170,7 +1170,7 @@
   {
    "cell_type": "code",
    "execution_count": 21,
-   "id": "informative-moore",
+   "id": "cutting-father",
    "metadata": {},
    "outputs": [
     {
@@ -1212,7 +1212,7 @@
   {
    "cell_type": "code",
    "execution_count": 22,
-   "id": "veterinary-cache",
+   "id": "subtle-helicopter",
    "metadata": {},
    "outputs": [
     {
@@ -1327,7 +1327,7 @@
   {
    "cell_type": "code",
    "execution_count": 23,
-   "id": "considered-pension",
+   "id": "attractive-toronto",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1338,7 +1338,7 @@
   {
    "cell_type": "code",
    "execution_count": 24,
-   "id": "contemporary-rainbow",
+   "id": "ecological-workplace",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1348,7 +1348,7 @@
   {
    "cell_type": "code",
    "execution_count": 25,
-   "id": "educational-hypothetical",
+   "id": "ahead-wilson",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1359,7 +1359,7 @@
   {
    "cell_type": "code",
    "execution_count": 26,
-   "id": "better-wrestling",
+   "id": "short-qatar",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1369,7 +1369,7 @@
   {
    "cell_type": "code",
    "execution_count": 27,
-   "id": "threatened-cologne",
+   "id": "understood-suite",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1380,21 +1380,21 @@
   {
    "cell_type": "code",
    "execution_count": 28,
-   "id": "printable-creek",
+   "id": "every-chancellor",
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Before OverSampling, counts of label '1': 92\n",
-      "Before OverSampling, counts of label '0': 7907 \n",
+      "Before OverSampling, counts of label '1': 83\n",
+      "Before OverSampling, counts of label '0': 7916 \n",
       "\n",
-      "After OverSampling, the shape of X_train_new: (15814, 3)\n",
-      "After OverSampling, the shape of y_train_new: (15814,) \n",
+      "After OverSampling, the shape of X_train_new: (15832, 3)\n",
+      "After OverSampling, the shape of y_train_new: (15832,) \n",
       "\n",
-      "After OverSampling, counts of label '1': 7907\n",
-      "After OverSampling, counts of label '0': 7907\n"
+      "After OverSampling, counts of label '1': 7916\n",
+      "After OverSampling, counts of label '0': 7916\n"
      ]
     }
    ],
@@ -1415,7 +1415,7 @@
   {
    "cell_type": "code",
    "execution_count": 29,
-   "id": "virtual-dominant",
+   "id": "informational-messaging",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1425,7 +1425,7 @@
   {
    "cell_type": "code",
    "execution_count": 30,
-   "id": "thermal-inclusion",
+   "id": "competitive-seminar",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1436,7 +1436,7 @@
   {
    "cell_type": "code",
    "execution_count": 31,
-   "id": "criminal-leeds",
+   "id": "periodic-harassment",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1446,15 +1446,15 @@
   {
    "cell_type": "code",
    "execution_count": 32,
-   "id": "agreed-halifax",
+   "id": "possible-hamburg",
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "[[1940   43]\n",
-      " [   5   12]]\n"
+      "[[1941   33]\n",
+      " [   7   19]]\n"
      ]
     }
    ],
@@ -1465,7 +1465,7 @@
   {
    "cell_type": "code",
    "execution_count": 33,
-   "id": "comparable-freeze",
+   "id": "laughing-bride",
    "metadata": {},
    "outputs": [
     {
@@ -1474,11 +1474,11 @@
      "text": [
       "              precision    recall  f1-score   support\n",
       "\n",
-      "           0       1.00      0.98      0.99      1983\n",
-      "           1       0.22      0.71      0.33        17\n",
+      "           0       1.00      0.98      0.99      1974\n",
+      "           1       0.37      0.73      0.49        26\n",
       "\n",
       "    accuracy                           0.98      2000\n",
-      "   macro avg       0.61      0.84      0.66      2000\n",
+      "   macro avg       0.68      0.86      0.74      2000\n",
       "weighted avg       0.99      0.98      0.98      2000\n",
       "\n"
      ]
@@ -1490,8 +1490,56 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 36,
-   "id": "fundamental-armenia",
+   "execution_count": 47,
+   "id": "grand-concept",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "rf=RandomForestClassifier(n_estimators=450).fit(X, y)\n",
+    "y1_pred=rf.predict(X)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 48,
+   "id": "employed-retail",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[[9890    0]\n",
+      " [   0  109]]\n",
+      "              precision    recall  f1-score   support\n",
+      "\n",
+      "           0       1.00      1.00      1.00      9890\n",
+      "           1       1.00      1.00      1.00       109\n",
+      "\n",
+      "    accuracy                           1.00      9999\n",
+      "   macro avg       1.00      1.00      1.00      9999\n",
+      "weighted avg       1.00      1.00      1.00      9999\n",
+      "\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(confusion_matrix(y,y1_pred))\n",
+    "print(classification_report(y,y1_pred))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "confused-deployment",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 34,
+   "id": "marine-venture",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1502,24 +1550,24 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 37,
-   "id": "packed-blogger",
+   "execution_count": 35,
+   "id": "adaptive-performance",
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "[[1865  118]\n",
-      " [   2   15]]\n",
+      "[[1836  138]\n",
+      " [   0   26]]\n",
       "              precision    recall  f1-score   support\n",
       "\n",
-      "           0       1.00      0.94      0.97      1983\n",
-      "           1       0.11      0.88      0.20        17\n",
+      "           0       1.00      0.93      0.96      1974\n",
+      "           1       0.16      1.00      0.27        26\n",
       "\n",
-      "    accuracy                           0.94      2000\n",
-      "   macro avg       0.56      0.91      0.58      2000\n",
-      "weighted avg       0.99      0.94      0.96      2000\n",
+      "    accuracy                           0.93      2000\n",
+      "   macro avg       0.58      0.97      0.62      2000\n",
+      "weighted avg       0.99      0.93      0.95      2000\n",
       "\n"
      ]
     }
@@ -1531,18 +1579,96 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 39,
-   "id": "interested-saint",
+   "execution_count": 36,
+   "id": "eligible-vision",
    "metadata": {},
    "outputs": [],
    "source": [
-    "log_reg=LogisticRegression(solver=\"liblinear\", C=2).fit(X, y)"
+    "log_reg=LogisticRegression(solver=\"liblinear\", C=2).fit(X,y)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 37,
+   "id": "controversial-florist",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "yypred=log_reg.predict(X)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 38,
+   "id": "instant-candy",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[[9868   22]\n",
+      " [  92   17]]\n",
+      "              precision    recall  f1-score   support\n",
+      "\n",
+      "           0       0.99      1.00      0.99      9890\n",
+      "           1       0.44      0.16      0.23       109\n",
+      "\n",
+      "    accuracy                           0.99      9999\n",
+      "   macro avg       0.71      0.58      0.61      9999\n",
+      "weighted avg       0.98      0.99      0.99      9999\n",
+      "\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(confusion_matrix(y,yypred))\n",
+    "print(classification_report(y,yypred))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "metric-spring",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 39,
+   "id": "undefined-beverage",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "yprob=log_reg.predict_proba(X)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 40,
-   "id": "northern-moderator",
+   "id": "adverse-courtesy",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0.9995035500730846"
+      ]
+     },
+     "execution_count": 40,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "yprob[1][1]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 41,
+   "id": "narrow-gauge",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1551,18 +1677,444 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 41,
-   "id": "rapid-norfolk",
+   "execution_count": 50,
+   "id": "dutch-reynolds",
    "metadata": {},
    "outputs": [],
    "source": [
-    "pickle.dump(log_reg, open( \"model.pkl\", \"wb\"))"
+    "model = pickle.load(open('model.pkl', 'rb'))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 51,
+   "id": "confidential-estimate",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0.006666666666666667"
+      ]
+     },
+     "execution_count": 51,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "model.predict_proba([[12,204.42,0.33]])[0][1]"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "divided-treatment",
+   "id": "diverse-audio",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 49,
+   "id": "necessary-touch",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "pickle.dump(rf, open( \"model.pkl\", \"wb\"))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 45,
+   "id": "popular-potter",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Client Id</th>\n",
+       "      <th>Sessions</th>\n",
+       "      <th>Avg. Session Duration</th>\n",
+       "      <th>Bounce Rate</th>\n",
+       "      <th>Revenue</th>\n",
+       "      <th>Transactions</th>\n",
+       "      <th>Goal Conversion Rate</th>\n",
+       "      <th>bought</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>2858</th>\n",
+       "      <td>1139895327.1594906</td>\n",
+       "      <td>2</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>$1.00</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>302</th>\n",
+       "      <td>1746209669.1578474</td>\n",
+       "      <td>14</td>\n",
+       "      <td>$189.57</td>\n",
+       "      <td>$0.93</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.14</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2847</th>\n",
+       "      <td>1138101538.1613486</td>\n",
+       "      <td>2</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>$1.00</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3420</th>\n",
+       "      <td>1301280070.1576095</td>\n",
+       "      <td>2</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>$1.00</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>846</th>\n",
+       "      <td>507848713.15829057</td>\n",
+       "      <td>8</td>\n",
+       "      <td>$34.25</td>\n",
+       "      <td>$0.62</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.62</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2953</th>\n",
+       "      <td>1434565564.159374</td>\n",
+       "      <td>4</td>\n",
+       "      <td>$3.50</td>\n",
+       "      <td>$0.75</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.25</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3708</th>\n",
+       "      <td>607812207.1599025</td>\n",
+       "      <td>4</td>\n",
+       "      <td>$0.75</td>\n",
+       "      <td>$0.75</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.25</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3842</th>\n",
+       "      <td>78018877.15792003</td>\n",
+       "      <td>4</td>\n",
+       "      <td>$7.75</td>\n",
+       "      <td>$0.75</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.75</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3782</th>\n",
+       "      <td>1343323674.1591992</td>\n",
+       "      <td>2</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>$1.00</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1684</th>\n",
+       "      <td>105498865.15797058</td>\n",
+       "      <td>5</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>$0.80</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.20</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1768</th>\n",
+       "      <td>1176034535.1589644</td>\n",
+       "      <td>5</td>\n",
+       "      <td>$2.80</td>\n",
+       "      <td>$0.80</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.20</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1400</th>\n",
+       "      <td>1856880318.1597824</td>\n",
+       "      <td>6</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>$1.00</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4674</th>\n",
+       "      <td>1449475116.1599548</td>\n",
+       "      <td>2</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>$1.00</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4621</th>\n",
+       "      <td>1442883277.1593628</td>\n",
+       "      <td>2</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>$1.00</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4790</th>\n",
+       "      <td>1335183780.1591554</td>\n",
+       "      <td>3</td>\n",
+       "      <td>$6.00</td>\n",
+       "      <td>$0.67</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.33</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4743</th>\n",
+       "      <td>1459247348.1611152</td>\n",
+       "      <td>2</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>$1.00</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>250</th>\n",
+       "      <td>1615233988.1591196</td>\n",
+       "      <td>16</td>\n",
+       "      <td>$104.19</td>\n",
+       "      <td>$0.44</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.94</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>444</th>\n",
+       "      <td>206672655.15990767</td>\n",
+       "      <td>11</td>\n",
+       "      <td>$354.45</td>\n",
+       "      <td>$0.27</td>\n",
+       "      <td>$165.52</td>\n",
+       "      <td>1</td>\n",
+       "      <td>$2.18</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4216</th>\n",
+       "      <td>1063356249.1576531</td>\n",
+       "      <td>3</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>$1.00</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2920</th>\n",
+       "      <td>1418696791.1578424</td>\n",
+       "      <td>4</td>\n",
+       "      <td>$34.50</td>\n",
+       "      <td>$0.50</td>\n",
+       "      <td>$0.00</td>\n",
+       "      <td>0</td>\n",
+       "      <td>$1.00</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "               Client Id  Sessions  Avg. Session Duration  Bounce Rate  Revenue  Transactions  Goal Conversion Rate  bought\n",
+       "2858  1139895327.1594906         2                  $0.00        $1.00    $0.00             0                 $0.00       0\n",
+       "302   1746209669.1578474        14                $189.57        $0.93    $0.00             0                 $0.14       0\n",
+       "2847  1138101538.1613486         2                  $0.00        $1.00    $0.00             0                 $0.00       0\n",
+       "3420  1301280070.1576095         2                  $0.00        $1.00    $0.00             0                 $0.00       0\n",
+       "846   507848713.15829057         8                 $34.25        $0.62    $0.00             0                 $0.62       0\n",
+       "2953   1434565564.159374         4                  $3.50        $0.75    $0.00             0                 $0.25       0\n",
+       "3708   607812207.1599025         4                  $0.75        $0.75    $0.00             0                 $0.25       0\n",
+       "3842   78018877.15792003         4                  $7.75        $0.75    $0.00             0                 $0.75       0\n",
+       "3782  1343323674.1591992         2                  $0.00        $1.00    $0.00             0                 $0.00       0\n",
+       "1684  105498865.15797058         5                  $0.00        $0.80    $0.00             0                 $0.20       0\n",
+       "1768  1176034535.1589644         5                  $2.80        $0.80    $0.00             0                 $0.20       0\n",
+       "1400  1856880318.1597824         6                  $0.00        $1.00    $0.00             0                 $0.00       0\n",
+       "4674  1449475116.1599548         2                  $0.00        $1.00    $0.00             0                 $0.00       0\n",
+       "4621  1442883277.1593628         2                  $0.00        $1.00    $0.00             0                 $0.00       0\n",
+       "4790  1335183780.1591554         3                  $6.00        $0.67    $0.00             0                 $0.33       0\n",
+       "4743  1459247348.1611152         2                  $0.00        $1.00    $0.00             0                 $0.00       0\n",
+       "250   1615233988.1591196        16                $104.19        $0.44    $0.00             0                 $0.94       0\n",
+       "444   206672655.15990767        11                $354.45        $0.27  $165.52             1                 $2.18       1\n",
+       "4216  1063356249.1576531         3                  $0.00        $1.00    $0.00             0                 $0.00       0\n",
+       "2920  1418696791.1578424         4                 $34.50        $0.50    $0.00             0                 $1.00       0"
+      ]
+     },
+     "execution_count": 45,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df.sample(20)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
+   "id": "valid-technician",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Requirement already satisfied: streamlit in d:\\anaconda belgeler\\lib\\site-packages (0.77.0)\n",
+      "Requirement already satisfied: pandas>=0.21.0 in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (1.1.3)\n",
+      "Requirement already satisfied: validators in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (0.18.2)\n",
+      "Requirement already satisfied: toml in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (0.10.1)\n",
+      "Requirement already satisfied: pyarrow in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (3.0.0)\n",
+      "Requirement already satisfied: watchdog in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (0.10.3)\n",
+      "Requirement already satisfied: cachetools>=4.0 in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (4.2.1)\n",
+      "Requirement already satisfied: numpy in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (1.19.2)\n",
+      "Requirement already satisfied: packaging in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (20.9)\n",
+      "Requirement already satisfied: protobuf!=3.11,>=3.6.0 in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (3.15.3)\n",
+      "Requirement already satisfied: tzlocal in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (2.1)\n",
+      "Requirement already satisfied: pydeck>=0.1.dev5 in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (0.6.1)\n",
+      "Requirement already satisfied: astor in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (0.8.1)\n",
+      "Requirement already satisfied: click>=7.0 in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (7.1.2)\n",
+      "Requirement already satisfied: python-dateutil in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (2.8.1)\n",
+      "Requirement already satisfied: tornado>=5.0 in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (6.1)\n",
+      "Requirement already satisfied: pillow>=6.2.0 in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (8.0.1)\n",
+      "Requirement already satisfied: gitpython in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (3.1.14)\n",
+      "Requirement already satisfied: blinker in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (1.4)\n",
+      "Requirement already satisfied: altair>=3.2.0 in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (4.1.0)\n",
+      "Requirement already satisfied: requests in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (2.24.0)\n",
+      "Requirement already satisfied: base58 in d:\\anaconda belgeler\\lib\\site-packages (from streamlit) (2.1.0)\n",
+      "Requirement already satisfied: jsonschema in d:\\anaconda belgeler\\lib\\site-packages (from altair>=3.2.0->streamlit) (3.2.0)\n",
+      "Requirement already satisfied: entrypoints in d:\\anaconda belgeler\\lib\\site-packages (from altair>=3.2.0->streamlit) (0.3)\n",
+      "Requirement already satisfied: toolz in d:\\anaconda belgeler\\lib\\site-packages (from altair>=3.2.0->streamlit) (0.11.1)\n",
+      "Requirement already satisfied: jinja2 in d:\\anaconda belgeler\\lib\\site-packages (from altair>=3.2.0->streamlit) (2.11.3)\n",
+      "Requirement already satisfied: pytz>=2017.2 in d:\\anaconda belgeler\\lib\\site-packages (from pandas>=0.21.0->streamlit) (2020.1)\n",
+      "Requirement already satisfied: six>=1.9 in d:\\anaconda belgeler\\lib\\site-packages (from protobuf!=3.11,>=3.6.0->streamlit) (1.15.0)\n",
+      "Requirement already satisfied: traitlets>=4.3.2 in d:\\anaconda belgeler\\lib\\site-packages (from pydeck>=0.1.dev5->streamlit) (5.0.5)\n",
+      "Requirement already satisfied: ipykernel>=5.1.2 in d:\\anaconda belgeler\\lib\\site-packages (from pydeck>=0.1.dev5->streamlit) (5.4.3)\n",
+      "Requirement already satisfied: ipywidgets>=7.0.0 in d:\\anaconda belgeler\\lib\\site-packages (from pydeck>=0.1.dev5->streamlit) (7.5.1)\n",
+      "Requirement already satisfied: ipython>=5.0.0 in d:\\anaconda belgeler\\lib\\site-packages (from ipykernel>=5.1.2->pydeck>=0.1.dev5->streamlit) (7.20.0)\n",
+      "Requirement already satisfied: jupyter-client in d:\\anaconda belgeler\\lib\\site-packages (from ipykernel>=5.1.2->pydeck>=0.1.dev5->streamlit) (6.1.7)\n",
+      "Requirement already satisfied: jedi>=0.16 in d:\\anaconda belgeler\\lib\\site-packages (from ipython>=5.0.0->ipykernel>=5.1.2->pydeck>=0.1.dev5->streamlit) (0.17.1)\n",
+      "Requirement already satisfied: setuptools>=18.5 in d:\\anaconda belgeler\\lib\\site-packages (from ipython>=5.0.0->ipykernel>=5.1.2->pydeck>=0.1.dev5->streamlit) (50.3.1.post20201107)\n",
+      "Requirement already satisfied: decorator in d:\\anaconda belgeler\\lib\\site-packages (from ipython>=5.0.0->ipykernel>=5.1.2->pydeck>=0.1.dev5->streamlit) (4.4.2)\n",
+      "Requirement already satisfied: pygments in d:\\anaconda belgeler\\lib\\site-packages (from ipython>=5.0.0->ipykernel>=5.1.2->pydeck>=0.1.dev5->streamlit) (2.7.4)\n",
+      "Requirement already satisfied: pickleshare in d:\\anaconda belgeler\\lib\\site-packages (from ipython>=5.0.0->ipykernel>=5.1.2->pydeck>=0.1.dev5->streamlit) (0.7.5)\n",
+      "Requirement already satisfied: prompt-toolkit!=3.0.0,!=3.0.1,<3.1.0,>=2.0.0 in d:\\anaconda belgeler\\lib\\site-packages (from ipython>=5.0.0->ipykernel>=5.1.2->pydeck>=0.1.dev5->streamlit) (3.0.8)\n",
+      "Requirement already satisfied: colorama in d:\\anaconda belgeler\\lib\\site-packages (from ipython>=5.0.0->ipykernel>=5.1.2->pydeck>=0.1.dev5->streamlit) (0.4.4)\n",
+      "Requirement already satisfied: backcall in d:\\anaconda belgeler\\lib\\site-packages (from ipython>=5.0.0->ipykernel>=5.1.2->pydeck>=0.1.dev5->streamlit) (0.2.0)\n",
+      "Requirement already satisfied: widgetsnbextension~=3.5.0 in d:\\anaconda belgeler\\lib\\site-packages (from ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (3.5.1)\n",
+      "Requirement already satisfied: nbformat>=4.2.0 in d:\\anaconda belgeler\\lib\\site-packages (from ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (5.1.2)\n",
+      "Requirement already satisfied: parso<0.8.0,>=0.7.0 in d:\\anaconda belgeler\\lib\\site-packages (from jedi>=0.16->ipython>=5.0.0->ipykernel>=5.1.2->pydeck>=0.1.dev5->streamlit) (0.7.0)\n",
+      "Requirement already satisfied: MarkupSafe>=0.23 in d:\\anaconda belgeler\\lib\\site-packages (from jinja2->altair>=3.2.0->streamlit) (1.1.1)\n",
+      "Requirement already satisfied: jupyter-core in d:\\anaconda belgeler\\lib\\site-packages (from nbformat>=4.2.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (4.7.1)\n",
+      "Requirement already satisfied: ipython-genutils in d:\\anaconda belgeler\\lib\\site-packages (from nbformat>=4.2.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (0.2.0)\n",
+      "Requirement already satisfied: pyrsistent>=0.14.0 in d:\\anaconda belgeler\\lib\\site-packages (from jsonschema->altair>=3.2.0->streamlit) (0.17.3)\n",
+      "Requirement already satisfied: attrs>=17.4.0 in d:\\anaconda belgeler\\lib\\site-packages (from jsonschema->altair>=3.2.0->streamlit) (20.3.0)\n",
+      "Requirement already satisfied: wcwidth in d:\\anaconda belgeler\\lib\\site-packages (from prompt-toolkit!=3.0.0,!=3.0.1,<3.1.0,>=2.0.0->ipython>=5.0.0->ipykernel>=5.1.2->pydeck>=0.1.dev5->streamlit) (0.2.5)\n",
+      "Requirement already satisfied: notebook>=4.4.1 in d:\\anaconda belgeler\\lib\\site-packages (from widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (6.1.4)\n",
+      "Requirement already satisfied: argon2-cffi in d:\\anaconda belgeler\\lib\\site-packages (from notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (20.1.0)\n",
+      "Requirement already satisfied: pyzmq>=17 in d:\\anaconda belgeler\\lib\\site-packages (from notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (20.0.0)\n",
+      "Requirement already satisfied: prometheus-client in d:\\anaconda belgeler\\lib\\site-packages (from notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (0.9.0)\n",
+      "Requirement already satisfied: Send2Trash in d:\\anaconda belgeler\\lib\\site-packages (from notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (1.5.0)\n",
+      "Requirement already satisfied: nbconvert in d:\\anaconda belgeler\\lib\\site-packages (from notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (5.6.0)\n",
+      "Requirement already satisfied: terminado>=0.8.3 in d:\\anaconda belgeler\\lib\\site-packages (from notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (0.9.2)\n",
+      "Requirement already satisfied: pywin32>=1.0 in d:\\anaconda belgeler\\lib\\site-packages (from jupyter-core->nbformat>=4.2.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (300)\n",
+      "Requirement already satisfied: pywinpty>=0.5 in d:\\anaconda belgeler\\lib\\site-packages (from terminado>=0.8.3->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (0.5.7)\n",
+      "Requirement already satisfied: cffi>=1.0.0 in d:\\anaconda belgeler\\lib\\site-packages (from argon2-cffi->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (1.14.5)\n",
+      "Requirement already satisfied: pycparser in d:\\anaconda belgeler\\lib\\site-packages (from cffi>=1.0.0->argon2-cffi->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (2.20)\n",
+      "Requirement already satisfied: gitdb<5,>=4.0.1 in d:\\anaconda belgeler\\lib\\site-packages (from gitpython->streamlit) (4.0.5)\n",
+      "Requirement already satisfied: smmap<4,>=3.0.1 in d:\\anaconda belgeler\\lib\\site-packages (from gitdb<5,>=4.0.1->gitpython->streamlit) (3.0.5)\n",
+      "Requirement already satisfied: bleach in d:\\anaconda belgeler\\lib\\site-packages (from nbconvert->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (3.3.0)\n",
+      "Requirement already satisfied: defusedxml in d:\\anaconda belgeler\\lib\\site-packages (from nbconvert->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (0.6.0)\n",
+      "Requirement already satisfied: mistune<2,>=0.8.1 in d:\\anaconda belgeler\\lib\\site-packages (from nbconvert->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (0.8.4)\n",
+      "Requirement already satisfied: testpath in d:\\anaconda belgeler\\lib\\site-packages (from nbconvert->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (0.4.4)\n",
+      "Requirement already satisfied: pandocfilters>=1.4.1 in d:\\anaconda belgeler\\lib\\site-packages (from nbconvert->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (1.4.2)\n",
+      "Requirement already satisfied: webencodings in d:\\anaconda belgeler\\lib\\site-packages (from bleach->nbconvert->notebook>=4.4.1->widgetsnbextension~=3.5.0->ipywidgets>=7.0.0->pydeck>=0.1.dev5->streamlit) (0.5.1)\n",
+      "Requirement already satisfied: pyparsing>=2.0.2 in d:\\anaconda belgeler\\lib\\site-packages (from packaging->streamlit) (2.4.7)\n",
+      "Requirement already satisfied: certifi>=2017.4.17 in d:\\anaconda belgeler\\lib\\site-packages (from requests->streamlit) (2020.12.5)\n",
+      "Requirement already satisfied: chardet<4,>=3.0.2 in d:\\anaconda belgeler\\lib\\site-packages (from requests->streamlit) (3.0.4)\n",
+      "Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in d:\\anaconda belgeler\\lib\\site-packages (from requests->streamlit) (1.25.11)\n",
+      "Requirement already satisfied: idna<3,>=2.5 in d:\\anaconda belgeler\\lib\\site-packages (from requests->streamlit) (2.10)\n",
+      "Requirement already satisfied: pathtools>=0.1.1 in d:\\anaconda belgeler\\lib\\site-packages (from watchdog->streamlit) (0.1.2)\n"
+     ]
+    }
+   ],
+   "source": [
+    "!pip install streamlit"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "otherwise-aerospace",
    "metadata": {},
    "outputs": [],
    "source": []

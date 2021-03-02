@@ -15,11 +15,16 @@ def predict():
 
     int_features = [float(x) for x in request.form.values()]
     final_features = [np.array(int_features)]
-    prediction = model.predict(final_features)
+    prediction = model.predict_proba(final_features)[:,1][0]
 
-    output=["has real interest in the product" if prediction[0]==1 else "is just looking."][0]
+    if prediction>=0.35 and  prediction<=0.49:
+        output="This customer needs motivation"
+    elif prediction>=0.50:
+        output="This customer has real interest in the product" 
+    else:
+        output="This customer is just looking"
 
-    return render_template('index.html', prediction_text='This customer {}'.format(output))
+    return render_template('index.html', prediction_text=output)
 
 @app.route('/results',methods=['POST'])
 def results():
@@ -27,7 +32,7 @@ def results():
     data = request.get_json(force=True)
     prediction = model.predict([np.array(list(data.values()))])
 
-    output=["has real interest in the product" if prediction[0]==1 else "is just looking."][0]
+    
 
     return jsonify(output)
 
